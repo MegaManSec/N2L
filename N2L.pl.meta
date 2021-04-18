@@ -1,0 +1,8 @@
+Author	Andy Powell
+Publisher	UKOLN
+Requirements	Perl, hdlres
+Description	CGI-based DOI/Handle/IETF/ISBN URN resolver. Not quite RFC-2169 compliant. Resolves DOI namespace using hdlres.c. Resolves IETF namespace using code from draft-ietf-urn-ietf-04.txt. Resolves ISBN namespace using www.amazon.co.uk.
+Keywords	URN, N2L, Name to Location, resolver, Handle, DOI, IETF, ISBN
+Language	perl
+Usage	
+Comments	Probably needs installing as nph-N2L

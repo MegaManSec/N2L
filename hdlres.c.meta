@@ -1,0 +1,8 @@
+Author	Andy Powell
+Publisher	UKOLN
+Requirements	CNRI Handle Client Library
+Description	A very simple Handle resolution client.
+Keywords	Handle, DOI, Digital Object Identifier, URN, N2L
+Language	C
+Usage	hdlres
+Comments	Intended for use with the N2L CGI-based URN resolver.
